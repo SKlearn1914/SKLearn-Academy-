@@ -1,0 +1,6 @@
+{
+  "name": "SKLearn Academy",
+  "description": "An enterprise-grade, AI-powered School Management System (SMS) with role-based dashboards, AI-driven attendance tracking (webcam facial verification & OCR student ID reader), smart natural language analytics, and complete school organizer modules.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
